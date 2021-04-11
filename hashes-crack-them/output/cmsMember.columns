@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"nodeId","STRING","0","0","0"
+"Email","STRING","0","0","0"
+"LoginName","STRING","0","0","0"
+"Password","STRING","0","0","0"

@@ -1,0 +1,3 @@
+"id","uniqueId","macroUseInEditor","macroRefreshRate","macroAlias","macroName","macroCacheByPage","macroCachePersonalized","macroDontRender","macroSource","macroType"
+"1","186aa225-9275-4274-9266-cabafde332fe","True","0","latestBlogposts","Get Latest Blogposts","False","False","False","~/Views/MacroPartials/LatestBlogposts.cshtml","7"
+"2","8e0c8510-a6af-43a6-97a7-ef0b0c1bff0e","True","0","featuredProduct","Select Featured Products","False","False","False","~/Views/MacroPartials/FeaturedProducts.cshtml","7"

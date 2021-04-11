@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"nodeId","INTEGER","4","4","0"
+"published","STRING","4","0","0"
+"edited","STRING","5","0","0"

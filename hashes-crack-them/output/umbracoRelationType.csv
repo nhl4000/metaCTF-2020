@@ -1,0 +1,6 @@
+"id","typeUniqueId","dual","parentObjectType","childObjectType","name","alias"
+"1","4cbeb612-e689-3563-b755-bf3ede295433","True","c66ba18e-eaf3-4cff-8a22-41b16d66a972","c66ba18e-eaf3-4cff-8a22-41b16d66a972","Relate Document On Copy","relateDocumentOnCopy"
+"2","0cc3507c-66ab-3091-8913-3d998148e423","False","c66ba18e-eaf3-4cff-8a22-41b16d66a972","c66ba18e-eaf3-4cff-8a22-41b16d66a972","Relate Parent Document On Delete","relateParentDocumentOnDelete"
+"3","8307994f-faf2-3844-bab9-72d34514edf2","False","b796f64c-1f99-4ffb-b886-4bf4bc011a9c","b796f64c-1f99-4ffb-b886-4bf4bc011a9c","Relate Parent Media Folder On Delete","relateParentMediaFolderOnDelete"
+"4","4954ce93-3bf9-3d1e-9cd2-21bf9f9c2abf","False","","","Related Media","umbMedia"
+"5","0b93e414-5abe-36ec-a6bb-516e56f12238","False","","","Related Document","umbDocument"

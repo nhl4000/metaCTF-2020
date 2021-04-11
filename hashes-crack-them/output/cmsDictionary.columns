@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"pk","STRING","0","0","0"
+"id","STRING","0","0","0"
+"parent","STRING","0","0","0"
+"key","STRING","0","0","0"

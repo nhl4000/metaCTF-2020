@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"pk","STRING","0","0","0"
+"NodeId","STRING","0","0","0"
+"propertytypeId","STRING","0","0","0"
+"memberCanEdit","STRING","0","0","0"
+"viewOnProfile","STRING","0","0","0"
+"isSensitive","STRING","0","0","0"

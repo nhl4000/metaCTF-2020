@@ -1,0 +1,7 @@
+"id","performingUserId","performingDetails","performingIp","eventDateUtc","affectedUserId","affectedDetails","eventType","eventDetails"
+"1","0","User ""SYTEM"" ","127.0.0.1","2020-10-17 21:56:04","-1","User ""Administrator"" ","umbraco/user/save","updating RawPasswordValue, LastPasswordChangeDate, UpdateDate, SecurityStamp"
+"2","0","User ""SYTEM"" ","127.0.0.1","2020-10-17 21:56:05","-1","User ""Meta Admin"" <aaron@meta.ctf>","umbraco/user/save","updating Email, Name, Username, UpdateDate, SecurityStamp"
+"3","0","User ""SYTEM"" ","127.0.0.1","2020-10-17 21:56:46","-1","User ""Meta Admin"" <aaron@meta.ctf>","umbraco/user/save","updating LastLoginDate, UpdateDate"
+"4","0","User ""SYTEM"" ","127.0.0.1","2020-10-17 22:01:02","-1","User ""Meta Admin"" <aaron@meta.ctf>","umbraco/user/save","updating LastLoginDate, UpdateDate"
+"5","0","User ""SYTEM"" ","127.0.0.1","2020-10-17 22:01:02","-1","User ""Meta Admin"" <aaron@meta.ctf>","umbraco/user/sign-in/login","login success"
+"6","-1","User ""Meta Admin"" <aaron@meta.ctf>","127.0.0.1","2020-10-17 22:01:03","-1","User ""Meta Admin"" <aaron@meta.ctf>","umbraco/user/save","updating TourData, UpdateDate"

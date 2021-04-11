@@ -1,0 +1,4 @@
+"id","uniquePropertyId","editorAlias","macro","macroPropertySortOrder","macroPropertyAlias","macroPropertyName"
+"1","c1b0e053-50fd-4f31-97ef-f7345fe18b08","Umbraco.Integer","1","0","numberOfPosts","How many posts should be shown"
+"2","2fd0c7f9-6030-4a08-8b45-e47230a19157","Umbraco.ContentPicker","1","1","startNodeId","Where to get blog posts from"
+"3","1fc8d9a6-e574-476b-80f7-0eaf87013ce2","Umbraco.ContentPicker","2","0","product","Choose Product"

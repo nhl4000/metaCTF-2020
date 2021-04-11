@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"uniquePropertyId","STRING","36","0","0"
+"editorAlias","STRING","21","0","0"
+"macro","INTEGER","1","1","0"
+"macroPropertySortOrder","INTEGER","1","1","0"
+"macroPropertyAlias","STRING","13","0","0"
+"macroPropertyName","STRING","30","0","0"

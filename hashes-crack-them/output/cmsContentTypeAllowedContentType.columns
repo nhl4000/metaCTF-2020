@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"Id","INTEGER","4","4","0"
+"AllowedId","INTEGER","4","4","0"
+"SortOrder","INTEGER","1","1","0"

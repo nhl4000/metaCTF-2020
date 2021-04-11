@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"nodeId","INTEGER","4","4","0"
+"published","STRING","5","0","0"
+"data","STRING","4527","0","0"
+"rv","INTEGER","1","1","0"

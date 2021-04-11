@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"accessId","STRING","0","0","0"
+"ruleValue","STRING","0","0","0"
+"ruleType","STRING","0","0","0"
+"createDate","STRING","0","0","0"
+"updateDate","STRING","0","0","0"

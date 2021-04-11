@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"userId","INTEGER","2","1","0"
+"userGroupId","INTEGER","1","1","0"

@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"utcStamp","STRING","19","0","0"
+"jsonInstruction","STRING","182","0","0"
+"originated","STRING","76","0","0"
+"instructionCount","INTEGER","1","1","0"

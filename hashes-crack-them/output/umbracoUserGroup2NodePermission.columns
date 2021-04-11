@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"userGroupId","STRING","0","0","0"
+"nodeId","STRING","0","0","0"
+"permission","STRING","0","0","0"

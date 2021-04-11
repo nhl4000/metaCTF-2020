@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"templateId","INTEGER","4","4","0"
+"published","STRING","5","0","0"

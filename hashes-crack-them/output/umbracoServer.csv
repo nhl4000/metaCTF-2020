@@ -1,0 +1,2 @@
+"id","address","computerName","registeredDate","lastNotifiedDate","isActive","isMaster"
+"1","http://localhost:41298/umbraco","EC2AMAZ-FKOH6CR//LM/W3SVC/2/ROOT","2020-10-17 21:57:12","2020-10-17 22:00:14","True","True"

@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"pk","INTEGER","2","2","0"
+"nodeId","INTEGER","4","4","0"
+"alias","STRING","11","0","0"

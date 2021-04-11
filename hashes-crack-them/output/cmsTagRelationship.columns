@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"nodeId","INTEGER","4","4","0"
+"tagId","INTEGER","2","2","0"
+"propertyTypeId","INTEGER","2","2","0"

@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"group","STRING","7","0","0"
+"languageId","STRING","0","0","0"
+"tag","STRING","14","0","0"

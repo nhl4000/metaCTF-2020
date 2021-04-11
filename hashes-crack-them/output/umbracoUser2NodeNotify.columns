@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"userId","STRING","0","0","0"
+"nodeId","STRING","0","0","0"
+"action","STRING","0","0","0"

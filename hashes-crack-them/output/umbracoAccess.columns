@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"nodeId","STRING","0","0","0"
+"loginNodeId","STRING","0","0","0"
+"noAccessNodeId","STRING","0","0","0"
+"createDate","STRING","0","0","0"
+"updateDate","STRING","0","0","0"

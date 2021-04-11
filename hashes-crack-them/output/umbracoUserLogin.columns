@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"sessionId","STRING","36","0","0"
+"userId","INTEGER","2","1","0"
+"loggedInUtc","STRING","19","0","0"
+"lastValidatedUtc","STRING","19","0","0"
+"loggedOutUtc","STRING","0","0","0"
+"ipAddress","STRING","9","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"contentKey","STRING","0","0","0"
+"createDateUtc","STRING","0","0","0"
+"url","STRING","0","0","0"
+"culture","STRING","0","0","0"
+"urlHash","STRING","0","0","0"

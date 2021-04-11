@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"userId","STRING","0","0","0"
+"loginProvider","STRING","0","0","0"
+"providerKey","STRING","0","0","0"
+"createDate","STRING","0","0","0"

@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"contentTypeNodeId","INTEGER","4","4","0"
+"templateNodeId","INTEGER","4","4","0"
+"IsDefault","STRING","4","0","0"

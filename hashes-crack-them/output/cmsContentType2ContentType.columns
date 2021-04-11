@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"parentContentTypeId","INTEGER","4","4","0"
+"childContentTypeId","INTEGER","4","4","0"

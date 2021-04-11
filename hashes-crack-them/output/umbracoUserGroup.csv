@@ -1,0 +1,6 @@
+"id","userGroupAlias","userGroupName","userGroupDefaultPermissions","createDate","updateDate","icon","startContentId","startMediaId"
+"1","admin","Administrators","CADMOSKTPIURZ:5F7ï","2020-10-17 21:56:01","2020-10-17 21:56:01","icon-medal","-1","-1"
+"2","writer","Writers","CAH:F","2020-10-17 21:56:01","2020-10-17 21:56:01","icon-edit","-1","-1"
+"3","editor","Editors","CADMOSKTPUZ:5Fï","2020-10-17 21:56:01","2020-10-17 21:56:01","icon-tools","-1","-1"
+"4","translator","Translators","AF","2020-10-17 21:56:01","2020-10-17 21:56:01","icon-globe","-1","-1"
+"5","sensitiveData","Sensitive data","","2020-10-17 21:56:01","2020-10-17 21:56:01","icon-lock","-1","-1"

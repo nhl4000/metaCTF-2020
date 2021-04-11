@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"languageISOCode","STRING","5","0","0"
+"languageCultureName","STRING","23","0","0"
+"isDefaultVariantLang","STRING","4","0","0"
+"mandatory","STRING","5","0","0"
+"fallbackLanguageId","STRING","0","0","0"

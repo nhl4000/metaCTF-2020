@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"typeUniqueId","STRING","36","0","0"
+"dual","STRING","5","0","0"
+"parentObjectType","STRING","36","0","0"
+"childObjectType","STRING","36","0","0"
+"name","STRING","36","0","0"
+"alias","STRING","31","0","0"

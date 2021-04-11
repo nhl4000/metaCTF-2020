@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"parentId","INTEGER","4","4","0"
+"childId","INTEGER","4","4","0"
+"relType","INTEGER","1","1","0"
+"datetime","STRING","19","0","0"
+"comment","STRING","0","0","0"

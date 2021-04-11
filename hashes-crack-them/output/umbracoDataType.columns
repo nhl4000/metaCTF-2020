@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"nodeId","INTEGER","4","4","0"
+"propertyEditorAlias","STRING","27","0","0"
+"dbType","STRING","8","0","0"
+"config","STRING","891","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"nodeId","INTEGER","4","4","0"
+"versionDate","STRING","19","0","0"
+"userId","STRING","2","1","0"
+"current","STRING","5","0","0"
+"text","STRING","29","0","0"

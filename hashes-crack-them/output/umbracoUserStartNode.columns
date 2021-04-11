@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"userId","STRING","0","0","0"
+"startNode","STRING","0","0","0"
+"startNodeType","STRING","0","0","0"

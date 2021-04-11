@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","5","4","0"
+"value","INTEGER","2","1","0"
+"name","STRING","12","0","0"
